@@ -1,4 +1,4 @@
-package com.example.router;
+package com.example.viewmodel;
 
 import androidx.appcompat.app.AppCompatActivity;
 
