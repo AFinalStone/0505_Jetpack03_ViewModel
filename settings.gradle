@@ -1,0 +1,2 @@
+rootProject.name = "0505_Jetpack03_ViewModel"
+include ':0101_ViewModel'
